@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo - Erste Schritte</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Hugo - Erste Schritte</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Dec 2025 08:52:12 +0100</lastBuildDate>
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein erster Post</title>
+      <link>https://example.org/post/2025/12/01_erster_post/</link>
+      <pubDate>Wed, 17 Dec 2025 08:52:12 +0100</pubDate>
+      <guid>https://example.org/post/2025/12/01_erster_post/</guid>
+      <description>&lt;p&gt;Mein erster Text!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Punkt 1&lt;/li&gt;&#xA;&lt;li&gt;Punkt 2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
